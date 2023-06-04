@@ -1,7 +1,7 @@
 # Compiler-Construction-Project
 
-### PROJECT MEMBERS ###
-Student ID | Name
+### Project Members ###
+ID | Name
 ------------ | -------------
 **8886** | **Afraz Ul Huq** 
 10709 | Mustafa Hasnain
